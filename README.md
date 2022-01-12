@@ -62,12 +62,14 @@ DURATION 10s
 <details>
 <summary>Vercel Building Log</summary>
 
+```
 16:07:20.267 Cloning github.com/kyosuke/static-site-without-build (Branch: main, Commit: 21829eb)
 16:07:20.577 Cloning completed: 309.682ms
 16:07:20.591 Analyzing source code...
 16:07:25.737 Uploading build outputs...
 16:07:26.454 Deploying build outputs...
 16:07:28.648Done with "."
+```
 
 </details>
 
@@ -83,6 +85,7 @@ DURATION 10s
 <details>
 <summary>Cloudflare Pages ビルド ログ</summary>
 
+```
 15:14:52.003	Initializing build environment. This may take up to a few minutes to complete
 15:17:14.752	Success: Finished initializing build environment
 15:17:14.752	Cloning repository...
@@ -92,5 +95,6 @@ DURATION 10s
 15:17:15.941	Validating asset output directory
 15:17:16.271	Deploying your site to Cloudflare's global network...
 15:17:19.413	Success: Your site was deployed!
+```
 
 </details>
